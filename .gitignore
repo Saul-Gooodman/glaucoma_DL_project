@@ -1,0 +1,42 @@
+# ==== Python ====
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+
+# ==== Jupyter Notebooks ====
+*.ipynb_checkpoints
+
+# ==== OS / IDE Files ====
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ==== Data files ====
+data/raw/
+data/**/*.zip
+data/**/*.tar
+data/**/*.gz
+*.hdf5
+*.npz
+*.mat
+
+# ==== Large outputs ====
+*.pt
+*.pth
+*.ckpt
+*.log
+
+# ==== Temporary / results ====
+*.tmp
+*.bak
+*.swp
+*.out
+
+# ==== Figures / Visualization caches ====
+results/figures/*.tmp
+results/figures/*.bak
+
+# ==== Personal / System paths ====
+/Users/
