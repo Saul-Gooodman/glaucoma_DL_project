@@ -38,7 +38,7 @@ scipy
 
 ---
 
-### 🧑‍💻 Author
+### Author
 **Yuwei Liu**  
 University of Bern – Master in Bioinformatics and Computational Biology  
 GitHub: [Saul-Gooodman](https://github.com/Saul-Gooodman)
