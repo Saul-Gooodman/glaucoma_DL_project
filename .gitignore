@@ -42,3 +42,4 @@ results/figures/*.bak
 /Users/data/features/*.npy
 data/features/*.npy
 data/features/*.npy
+data/features/*.npy
