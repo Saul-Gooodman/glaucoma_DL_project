@@ -40,3 +40,4 @@ results/figures/*.bak
 
 # ==== Personal / System paths ====
 /Users/data/features/*.npy
+data/features/*.npy
