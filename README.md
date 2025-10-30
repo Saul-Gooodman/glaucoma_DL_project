@@ -37,6 +37,14 @@ scipy
 - Evaluate with MAE and compare with point-wise regression.
 
 ---
+### 2025.10.30 update
+	•	Cleaned project structure and removed large .npy feature files from Git tracking.
+	•	Added .gitignore rules to exclude local model outputs and intermediate data.
+	•	Implemented flexible sequence builder (build_sequences_generic) supporting both consecutive and all-combination triplets.
+	•	Improved TD preprocessing pipeline with prepare_td_vector() function for consistent input generation.
+	•	Enhanced Voronoi visualization with circular masking to better match clinical visual field layouts.
+	•	Generated and validated both 2→1 and 3→1 input-output configurations.
+	•	Updated notebooks and documentation for reproducibility and future model training.
 
 ### Author
 **Yuwei Liu**  
