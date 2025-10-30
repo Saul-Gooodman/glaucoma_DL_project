@@ -39,4 +39,4 @@ results/figures/*.tmp
 results/figures/*.bak
 
 # ==== Personal / System paths ====
-/Users/
+/Users/data/features/*.npy
